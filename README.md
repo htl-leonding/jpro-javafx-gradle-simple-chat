@@ -1,4 +1,4 @@
-# How to start HelloJPro #
+# How to start JProSimpleChat
 
 
 ## Web Browser ##
@@ -33,4 +33,4 @@ http://localhost:8080/test/fullscreen/[app-name]
 ```
 
 
-# JProSimpleChat
+
