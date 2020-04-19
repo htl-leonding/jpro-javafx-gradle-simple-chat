@@ -23,7 +23,7 @@ public class SimpleChatApplication extends Application {
     @Override
     public void start(Stage stage) throws Exception {
 
-        ListView<String> messagesView = new ListView(messages);
+        ListView<String> messagesView = new ListView<String>(messages);
         TextField input = new TextField();
         input.setPromptText("Your Message");
         Button button = new Button("send");
